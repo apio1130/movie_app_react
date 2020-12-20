@@ -38,3 +38,8 @@
     font-size: 14px; 
     font-weight: bold;
   }
+
+  .movie_detail__summary {
+    overflow-y: auto;
+    height: 243px;
+  }
